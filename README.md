@@ -1,0 +1,197 @@
+html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meu portfólio</title>
+  </head>
+  <body></body>
+</html>
+<body>
+  <img src="img/avatar-perfil.png" alt="avatar da  murilo" srcset="" />
+</body>
+<body>
+  <img src="img/avatar-perfil.png" alt="avatar da murilo" srcset="" />
+  <p>Eu sou  murilo_</p>
+  <h1>Eu sou agricultor</h1>
+</body>
+<body>
+  <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+  <p>Eu sou murilo_</p>
+  <h1>Eu sou agricultor</h1>
+  <p>
+    produtor rural 
+  </p>
+</body>
+<body>
+  <!-- código omitido -->
+  <p>Minhas habilidades</p>
+  <div></div>
+</body>
+<body>
+  <!-- código omitido -->
+  <p>Minhas habilidades</p>
+  <div>
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>JavaScript</p>
+    <p>Scratch</p>
+  </div>
+</body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"  crossorigin="anonymous"  />
+  <link rel="stylesheet" href="style.css" />
+  <title>Meu portfólio</title>
+</head>
+<body>
+  <header class="container">
+    <!-- código omitido -->
+  </header>
+
+
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"
+  ></script>
+</body>
+<header>
+  <!-- código omitido -->
+</header>
+<main class="container"></main>
+<main class="container">
+  <h2>Meus projetos</h2>
+</main>
+<main class="container">
+  <h2>Meus projetos</h2>
+  <div class="row">
+    <div></div>
+  </div>
+</main>
+class="col-md-4"
+<main class="container">
+  <h2>Meus projetos</h2>
+  <div class="row">
+    <div class="col-md-4"></div>
+  </div>
+</main>
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="..." />
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">
+      Some quick example text to build on the card title and make up the bulk of
+      the card's content.
+    </p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+<main class="container">
+  <h2>Meus projetos</h2>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card" style="width: 18rem;">
+        <img src="..." class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">
+            Some quick example text to build on the card title and make up the
+            bulk of the card's content.
+          </p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="..." />
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">
+      Some quick example text to build on the card title and make up the bulk of
+      the card's content.
+    </p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+style="width: 18rem";
+<div class="card">
+  <img src="img/projeto-1.png" class="card-img-top" alt="..." />
+  <!-- código omitido -->
+</div>
+<div class="card">
+  <img
+    src="img/projeto-1.png"
+    class="card-img-top"
+    alt="Imagem do projeto de biblioteca virtual"
+  />
+  <!-- código omitido -->
+</div>
+<div class="card">
+  <img
+    src="img/projeto-1.png"
+    class="card-img-top"
+    alt="Imagem do projeto de biblioteca virtual"
+  />
+  <div class="card-body">
+    <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
+    <p class="card-text">
+      Este projeto é uma página web que apresenta uma lista dos meus livros
+      favoritos, incluindo informações sobre os autores, datas de publicação e
+      links para compra na Amazon. A página é estilizada com CSS para uma
+      visualização agradável e usa fontes externas do Google Fonts.
+    </p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div
+<button type="button" class="btn btn-link">Link</button>
+<div class="card">
+  <!-- código omitido -->
+  <div class="card-body">
+    <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
+    <p class="card-text">
+      Este projeto é uma página web que apresenta uma lista dos meus livros
+      favoritos, incluindo informações sobre os autores, datas de publicação e
+      links para compra na Amazon. A página é estilizada com CSS para uma
+      visualização agradável e usa fontes externas do Google Fonts.
+    </p>
+    <button type="button" class="btn btn-link">Link</button>
+  </div>
+</div>
+<div class="col-md-4">
+  <div class="card">
+    <img
+      src="img/projeto-1.png"
+      class="card-img-top"
+      alt="Imagem do projeto de biblioteca virtual"
+    />
+    <div class="card-body">
+      <h5 class="card-title">Minha Biblioteca: Uma Webpage Personalizada</h5>
+      <p class="card-text">
+        Este projeto é uma página web que apresenta uma lista dos meus livros
+        favoritos, incluindo informações sobre os autores, datas de publicação e
+        links para compra na Amazon. A página é estilizada com CSS para uma
+        visualização agradável e usa fontes externas do Google Fonts.
+      </p>
+      <button type="button" class="btn btn-link">Veja o projeto</button>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <!-- Projeto 1 -->
+  <div class="col-md-4"></div>
+</div>
+<main class="container mt-5">
+  <!-- código omitido -->
+</main>
